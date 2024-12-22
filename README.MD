@@ -1,10 +1,11 @@
 to run the app
 
-`npm i or yarn`
+`cd webrtc-Aeo`
+
+`npm i`
 
 then 
-
-`node server.js`
+`node server.mjs`
 
 For broadcaster screen: http://localhost:5000/
 
