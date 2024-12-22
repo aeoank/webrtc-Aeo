@@ -3,7 +3,7 @@ to run the app
 `cd webrtc-Aeo`
 
 `npm i`
-
+`npm install open`
 then 
 `node server.mjs`
 
