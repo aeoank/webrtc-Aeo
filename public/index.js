@@ -1,7 +1,5 @@
 window.onload = () => {
-    document.getElementById('my-button').onclick = () => {
         init();
-    }
 }
 
 async function init() {
